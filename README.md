@@ -5,7 +5,9 @@ Personal Finance Predictor is a machine learning model designed to analyze your 
    - Family Focused
    - High Savers
    - Balanced Savers
+     
 2. Predict your monthly savings by comparing your age, city tier, and other factors with similar users.
+   
 3. Forecast savings across different spending categories.
 
 ## Methodology
